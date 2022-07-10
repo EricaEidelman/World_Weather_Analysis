@@ -6,4 +6,5 @@ The purpose of this project is to create a customizable hotel selection and trav
 
 ## Resources
 Data Source: WeatherPy_Database.csv, WeatherPy_Vacation.csv
+
 Software: Python 3.7.6
